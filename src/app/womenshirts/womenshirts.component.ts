@@ -9,7 +9,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class WomenshirtsComponent implements OnInit {
   mensdata:any
-  url:string="../../assets/data/shirts-category/womenshirts.json"
+  url:string="https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/shirts-category/womenshirts.json"
 
   constructor(public categorydata:PagetitleService, public http:HttpClient) { }
 

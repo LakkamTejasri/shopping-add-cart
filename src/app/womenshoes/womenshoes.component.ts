@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class WomenshoesComponent implements OnInit {
 
-  url:string= "../../assets/data/shoescategory/womenshoes.json"
+  url:string= "https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/shoescategory/womenshoes.json"
  
   constructor(public http:HttpClient) { }
   mensdata:any

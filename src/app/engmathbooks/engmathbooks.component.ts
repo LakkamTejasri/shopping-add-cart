@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
 export class EngmathbooksComponent implements OnInit {
 
   mathsbookdata:any
-  url:string = "../../assets/data/telugubooks/mathbook.json";
+  url:string = "https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/telugubooks/mathbook.json";
   // apiurl:string ="https://jsonplaceholder.typicode.com/todos/"
 
   constructor(public http:HttpClient) { }

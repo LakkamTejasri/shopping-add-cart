@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class TeluguscienceComponent implements OnInit {
   sciencedata:any
-url:string="../../assets/data/telugubooks/sciencebooks.json"
+url:string="https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/telugubooks/sciencebooks.json"
   constructor(public http:HttpClient) { }
 
   ngOnInit(): void {

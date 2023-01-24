@@ -9,7 +9,7 @@ import { HttpClient  } from '@angular/common/http';
   styleUrls: ['./menshirts.component.scss']
 })
 export class MenshirtsComponent implements OnInit {
-  url:string="../../assets/data/shirts-category/menshirts.json"
+  url:string="https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/shirts-category/menshirts.json"
   // shirtscategorydat:any;
   
   constructor(public categorydata:PagetitleService,public http:HttpClient) { 

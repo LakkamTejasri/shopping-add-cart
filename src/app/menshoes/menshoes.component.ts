@@ -8,7 +8,7 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./menshoes.component.scss']
 })
 export class MenshoesComponent implements OnInit {
-  url:string= "../../assets/data/shoescategory/menshoesdetails.json"
+  url:string= "https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/shoescategory/menshoesdetails.json"
  
   constructor(public category:PagetitleService, public http:HttpClient) { }
   mensdata:any

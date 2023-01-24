@@ -17,7 +17,7 @@ export class SidenavComponent implements OnInit {
   subcomponents:any =[];
   bgcol = 0;
   subcat:any ;
-  url:string = "../../assets/data/datalist.json"
+  url:string = "https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/data/datalist.json"
   @ViewChild('sidenav', {static: true}) public sidenav!: MatSidenav;
   constructor(private sidenavService: SidenavbarService,public http:HttpClient) { }
  
