@@ -1,0 +1,262 @@
+[ {
+    "hname":"MEN",
+    "hicon":"man",
+  "childcomponent":[
+      {"subcatgry":"MEN - T-SHIRTS","name":"menshirts"},
+      {"subcatgry":"MEN - SHOES","shoes":"menshoes"},
+      {"subcatgry":"MEN - JEANS","jeans":"menjeans"}
+  ]
+      
+},
+{
+    "hname":"WOMEN",
+    "hicon":"woman",
+    "childcomponent":[
+        {"subcatgry":"WOMEN - T-SHIRTS","name":"womenshirts"},
+        {"subcatgry":"WOMEN - SHOES","shoes":"womenshoes"},
+        {"subcatgry":"WOMEN - JEANS","jeans":"womenjeans"}
+    ]
+}
+// 
+    
+    
+    {
+        "men":[
+           {
+              "clothe" :[
+                {"imge":"../../assets/images/mens/T-shirts.jpg"},
+                {"type":"T-Shirts"},
+                {"price":"RS. 500"} 
+               ],
+               "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+           }
+        ],
+        "women":[
+            {
+               "t_shirts" :[
+                 {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                 {"t_shirt":"T-Shirts"},
+                 {"price":"RS. 500"} 
+                ],
+                "shoes":[
+                    {"imge":"../../assets/images/mens/shoes2.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+            }
+         ]
+        
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes3.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+       
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts3.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 800"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts4.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 200"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts5.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 400"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts6.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 500"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+               "t_shirts" :[
+                 {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                 {"t_shirt":"T-Shirts"},
+                 {"price":"RS. 500"} 
+                ]
+            }
+         ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts7.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 900"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts8.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    },
+    {
+        "men":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/mens/tshirts9.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 700"} 
+                 ],
+                 "shoes":[
+                    {"imge":"../../assets/images/mens/shoes1.jpeg"},
+                    {"shoe":"sneakers"},
+                    {"price":"RS. 500"} 
+               ]
+             }
+        ],
+        "women":[
+            {
+                "t_shirts" :[
+                  {"imge":"../../assets/images/womens/tshirts2.jpeg"},
+                  {"t_shirt":"T-Shirts"},
+                  {"price":"RS. 600"} 
+                 ]
+             }
+       
+        ]
+    }
+]

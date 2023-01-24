@@ -1,0 +1,101 @@
+[
+    {
+        "id":0,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATHS-A",
+        "price":"Rs. 500",
+        "images":"../../assets/images/telugubooks/level1.jpg",
+        "cart_count":0
+    },
+    {
+        "id":1,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATHS-B",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/level2.jpg",
+        "cart_count":0
+    },
+    {
+        "id":2,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATH-C",
+        "price":"Rs. 400",
+        "images":"../../assets/images/telugubooks/level3.jpg",
+        "cart_count":0
+    },
+    {
+        "id":3,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATH-D",
+        "price":"Rs. 200",
+        "images":"../../assets/images/telugubooks/level4.jpg",
+        "cart_count":0
+    },
+    {
+        "id":4,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATH-A",
+        "price":"Rs. 300",
+        "images":"../../assets/images/telugubooks/level5.jpg",
+        "cart_count":0
+    },  
+    {
+        "id":5,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATHS-D",
+        "price":"Rs. 500",
+        "images":"../../assets/images/telugubooks/level1.jpg",
+        "cart_count":0
+    },
+    {
+        "id":6,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATHS-C",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/level2.jpg",
+        "cart_count":0
+    },
+    {
+        "id":7,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATHS-B",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/level2.jpg",
+        "cart_count":0
+    },
+    {
+        "id":8,
+        "buy":"BUY",
+        "Add_chart":"Add chart",
+        "pricename":"PRiCE",
+        "booktype":"BOOK-TYPE",
+        "type":"MATH-E",
+        "price":"Rs. 200",
+        "images":"../../assets/images/telugubooks/level4.jpg",
+        "cart_count":0
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes1.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes2.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes3.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes4.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes5.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes6.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/womens/shoes2.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes3.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes1.jpeg"
+    }
+
+
+]

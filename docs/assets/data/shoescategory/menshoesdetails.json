@@ -1,0 +1,49 @@
+[
+    {
+        "type":"sneakers",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes1.jpeg"
+    },
+    {
+        "type":"puma",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes2.jpeg"
+    },
+    {
+        "type":"sneakers",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes3.jpeg"
+    },
+    {
+        "type":"puma",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes4.jpeg"
+    },
+    {
+        "type":"sneakers",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes5.jpeg"
+    },
+    {
+        "type":"puma",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes1.jpeg"
+    },
+    {
+        "type":"sneaker",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes2.jpeg"
+    },
+    {
+        "type":"puma",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes3.jpeg"
+    },
+    {
+        "type":"sneakers",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/shoes4.jpeg"
+    }
+
+
+]
