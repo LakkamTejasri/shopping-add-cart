@@ -7,7 +7,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATHS-A",
         "price":"Rs. 500",
-        "images":"../../assets/images/telugubooks/level1.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level1.jpg",
         "cart_count":0
     },
     {
@@ -18,7 +18,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATHS-B",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/level2.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level2.jpg",
         "cart_count":0
     },
     {
@@ -29,7 +29,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATH-C",
         "price":"Rs. 400",
-        "images":"../../assets/images/telugubooks/level3.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level3.jpg",
         "cart_count":0
     },
     {
@@ -40,7 +40,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATH-D",
         "price":"Rs. 200",
-        "images":"../../assets/images/telugubooks/level4.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level4.jpg",
         "cart_count":0
     },
     {
@@ -51,7 +51,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATH-A",
         "price":"Rs. 300",
-        "images":"../../assets/images/telugubooks/level5.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level5.jpg",
         "cart_count":0
     },  
     {
@@ -62,7 +62,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATHS-D",
         "price":"Rs. 500",
-        "images":"../../assets/images/telugubooks/level1.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level1.jpg",
         "cart_count":0
     },
     {
@@ -73,7 +73,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATHS-C",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/level2.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level3.jpg",
         "cart_count":0
     },
     {
@@ -84,7 +84,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATHS-B",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/level2.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level2.jpg",
         "cart_count":0
     },
     {
@@ -95,7 +95,7 @@
         "booktype":"BOOK-TYPE",
         "type":"MATH-E",
         "price":"Rs. 200",
-        "images":"../../assets/images/telugubooks/level4.jpg",
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/level4.jpg",
         "cart_count":0
     }
 ]

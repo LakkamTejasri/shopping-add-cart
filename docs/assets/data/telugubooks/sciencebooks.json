@@ -8,7 +8,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-A",
         "price":"Rs. 500",
-        "images":"../../assets/images/telugubooks/science/level2.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level1.jpg"
     },
     {
         "id":1,
@@ -19,7 +19,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-B",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/science/level2.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level2.jpg"
     },
     {
         "id":2,
@@ -30,7 +30,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-C",
         "price":"Rs. 400",
-        "images":"../../assets/images/telugubooks/science/level3.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level3.jpg"
     },
     {
         "id":3,
@@ -41,7 +41,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-D",
         "price":"Rs. 200",
-        "images":"../../assets/images/telugubooks/science/level1.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level1.jpg"
     },
     {
         "id":4,
@@ -52,7 +52,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-A",
         "price":"Rs. 300",
-        "images":"../../assets/images/telugubooks/science/level3.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level2.jpg"
     },  
     {
         "id":5,
@@ -63,7 +63,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-D",
         "price":"Rs. 500",
-        "images":"../../assets/images/telugubooks/science/level2.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level3.jpg"
     },
     {
         "id":6,
@@ -74,7 +74,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-C",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/science/level1.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level1.jpg"
     },
     {
         "id":7,
@@ -85,7 +85,7 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-B",
         "price":"Rs. 600",
-        "images":"../../assets/images/telugubooks/science/level3.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level3.jpg"
     },
     {
         "id":8,
@@ -96,6 +96,6 @@
         "booktype":"BOOK-TYPE",
         "type":"SCIENCE-E",
         "price":"Rs. 200",
-        "images":"../../assets/images/telugubooks/science/level2.jpg"
+        "images":"https://raw.githubusercontent.com/LakkamTejasri/shopping-add-cart/master/src/assets/images/telugubooks/science/level2.jpg"
     }
 ]
