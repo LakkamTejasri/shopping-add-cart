@@ -1,0 +1,74 @@
+[
+    {
+        "id":0,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-A",
+        "price":"Rs. 500",
+        "images":"../../assets/images/telugubooks/science/level2.jpg"
+    },
+    {
+        "id":1,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-B",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/science/level2.jpg"
+    },
+    {
+        "id":2,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-C",
+        "price":"Rs. 400",
+        "images":"../../assets/images/telugubooks/science/level3.jpg"
+    },
+    {
+        "id":3,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-D",
+        "price":"Rs. 200",
+        "images":"../../assets/images/telugubooks/science/level1.jpg"
+    },
+    {
+        "id":4,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-A",
+        "price":"Rs. 300",
+        "images":"../../assets/images/telugubooks/science/level3.jpg"
+    },  
+    {
+        "id":5,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-D",
+        "price":"Rs. 500",
+        "images":"../../assets/images/telugubooks/science/level2.jpg"
+    },
+    {
+        "id":6,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-C",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/science/level1.jpg"
+    },
+    {
+        "id":7,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-B",
+        "price":"Rs. 600",
+        "images":"../../assets/images/telugubooks/science/level3.jpg"
+    },
+    {
+        "id":8,
+        "cart_count":0,
+        "booktype":"BOOK-TYPE",
+        "type":"SCIENCE-E",
+        "price":"Rs. 200",
+        "images":"../../assets/images/telugubooks/science/level2.jpg"
+    }
+]

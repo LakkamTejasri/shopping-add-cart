@@ -1,0 +1,33 @@
+<!-- <div class="bg-cr ">
+    <div class="container">
+        <div fxLayout="row" flex class="bg-cr" fxLayoutAlign="space-between center" >
+         
+           <mat-icon class="material-icons-outline">menu</mat-icon>
+           <h2 *ngIf="headtitle">{{headtitle.titles}}</h2>
+           <h3 *ngIf="!headtitle">Header Title</h3>
+            <nav>
+                <ul fxLayout="row">
+                    <li routerLink="{{nav}}" *ngFor="let nav of navlist; let i=index" (click)="xyz(i)">{{nav}}</li>
+                 
+                </ul>
+             </nav>         
+        </div>         
+    </div>  
+</div> -->
+
+
+<mat-toolbar class="bg-cr">    
+    <button class="btn" mat-button (click)="openSidenav()"><mat-icon >menu</mat-icon>
+    </button>
+        <h2 *ngIf="headtitle">{{headtitle.titles}}</h2>
+        <h3 *ngIf="!headtitle">Next Education</h3>      
+     <span class="example-spacer"></span>
+     <nav>
+        <ul fxLayout="row">
+            <li routerLink="{{navlistcomponents}}" *ngFor="let navlistcomponents of navlist; let i=index" (click)="xyz(i)">{{navlistcomponents}}</li>
+        </ul>
+     </nav>  
+    
+  </mat-toolbar> 
+
+  

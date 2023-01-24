@@ -1,0 +1,50 @@
+[
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans1.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans2.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans3.jpeg"
+    },
+    {
+        "nameoftype":"",
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans4.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans5.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans1.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans2.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans3.jpeg"
+    },
+    {
+        "type":"cotton",
+        "price":"Rs. 500",
+        "images":"../../assets/images/mens/jeans4.jpeg"
+    }
+
+
+]

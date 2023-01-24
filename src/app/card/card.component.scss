@@ -1,0 +1,31 @@
+// mat card css
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  mat-card{
+      margin: 10px !important;
+      box-shadow: 0 0 5px 0px #8986a5 !important;
+      & .mat-card-image{
+        height: 333px !important;
+      }
+  }
+  mat-card-actions{ 
+      & button{
+        padding: 4px 20px;
+        border: none;
+        background: green;
+        border-radius: 3px;
+        color: #fff;
+      }   
+     
+}
+.mt-40{
+  margin-top:40px
+}
+.floating-btn{position: fixed;
+bottom: 2rem;right: 2rem;}

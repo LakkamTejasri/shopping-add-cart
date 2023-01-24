@@ -1,0 +1,122 @@
+/* You can add global styles to this file, and also import other style files */
+*{margin: 0;padding: 0;box-sizing: border-box;}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+ul{margin: 0 !important}
+ul li{list-style-type: none !important;font-size: 18px;padding-top: 5px;cursor: pointer;}
+// ul li:first-child(){
+//   padding-top: 0px;
+// }
+/* fallback */
+
+
+/* fallback */
+/* fallback */
+@font-face {
+  font-family: 'Material Icons Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialiconsround/v107/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2) format('woff2');
+}
+
+.material-icons-round {
+  font-family: 'Material Icons Round';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  padding-right: 15px;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Material Icons Outlined';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialiconsoutlined/v108/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2) format('woff2');
+}
+
+.material-icons-outlined {
+  font-family: 'Material Icons Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  padding-right: 15px;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+   .mat-toolbar{
+    background: #6d70a3 !important;
+  }
+
+
+.mat-drawer-container{
+    height: 100%;
+}
+.example-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .example-radio-group {
+    display: block;
+    border: 1px solid #555;
+    margin: 20px;
+    padding: 10px;
+  }
+  mat-sidenav{
+      width: 230px !important;
+  }
+.list{
+    list-style-type: none !important;
+    font-size: 18px;
+    padding: 10px 5px;
+    display: block;
+    cursor: pointer;
+    align-items: center !important;
+    justify-content: center;
+    &:hover{
+      background: #6d70a3 !important;
+      width: 230px !important;
+      display: inline-block;
+      padding: 10px 5px;
+      border: none;
+      color:#fff
+    }
+}
+.btn{    background: #8090e5 !important;
+  border-radius: 2px 2px 2px 2px !important;
+  border: none !important;
+  display: block;
+  padding: 3px;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  margin-right: 4px !important;} 
+  .btt{
+    border: none;
+    background: transparent !important;
+    padding-top: 10px;
+    padding-right: 10px;
+  }
+// mat card css

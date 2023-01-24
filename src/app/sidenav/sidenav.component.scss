@@ -1,0 +1,23 @@
+
+.subcategory {
+   
+     li{
+        padding-bottom: 10px;
+        text-align: center;
+        padding: 5px 5px;
+         &:last-child{
+            padding-bottom: 0;
+         }
+         &:hover{
+            
+            background: #6d70a3;
+          display: block;
+          color:#fff
+        }
+    }
+   
+}
+.hideandShow{
+   display: none !important;
+  
+}

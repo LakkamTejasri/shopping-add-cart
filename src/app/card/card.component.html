@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="form-group mb-4 mt-40">
+    <input class="form-control" type="text" [(ngModel)]="searchText" placeholder="Search">
+  </div>
+<div fxLayout="row wrap" fxLayoutAlign="center start" *ngIf="(categories | filter: searchText).length > 0;">
+
+<mat-card class="example-card" fxFlex="30" *ngFor="let card of categories | filter: searchText;let i=index">
+       
+    <img mat-card-image src="{{card.images}}" alt="img">
+    <mat-card-content>
+        <mat-card-header>
+            <mat-card-title style="font-style: normal;font-size: 16px;">{{card.booktype}} : <span>{{card.type}}</span></mat-card-title>
+            <mat-card-title style="font-style: normal;font-size: 16px;">{{card.pricename}}: <span>{{card.price}}</span></mat-card-title>
+          </mat-card-header>
+    </mat-card-content>
+    <mat-card-actions fxLayout="row" fxLayoutAlign="space-between end">
+      <button mat-button >{{card.buy}}</button>
+      <button mat-button (click)="add_cart(card)" class="material-icons-round">add</button>
+    </mat-card-actions>
+  </mat-card>
+  
+  <button mat-fab color="primary" class="floating-btn" [matBadge]="cartlength"  routerLink="/addcart">
+    <mat-icon>shopping_cart</mat-icon>
+  </button>
+</div>
+</div>

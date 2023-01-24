@@ -1,0 +1,24 @@
+
+<div class="container">
+<div fxLayout="row wrap" fxLayoutAlign="center start" >
+
+<mat-card class="example-card" fxFlex="30" *ngFor="let card of data;let i=index">
+       
+    <img mat-card-image src="{{card.images}}" alt="img">
+    <mat-card-content>
+        <mat-card-header>
+            <mat-card-title style="font-style: normal;font-size: 16px;">{{card.booktype}} : <span >{{card.type}}</span></mat-card-title>
+            <mat-card-title style="font-style: normal;font-size: 16px;">{{card.pricename}}: <span>{{card.price}}</span></mat-card-title>
+            
+          </mat-card-header>
+    </mat-card-content>
+    <mat-card-actions fxLayout="row" fxLayoutAlign="space-between end">
+      <div><button mat-button >{{card.buy}}</button></div>
+    <div> <button mat-button (click)="add_item(card.id)" class="material-icons-round wdth">add</button>
+      <!-- {{card.cart_count}} -->
+        <button  class="floating-btn">{{card.cart_count}}</button>
+        <button mat-button  (click)="remove_item(card.id)" class="material-icons-round wdth">remove</button></div>
+    </mat-card-actions>
+  </mat-card>
+</div>
+</div>

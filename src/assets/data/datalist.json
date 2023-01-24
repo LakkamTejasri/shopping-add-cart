@@ -1,0 +1,22 @@
+[
+    {
+        "name":"TELUGU-BOOKS",
+        "icon":"library_books",
+      "childcomponent":[
+          {"subcatgry":"MATH - BOOKS","name":"telugumathbook"},
+          {"subcatgry":"SCIENCE - BOOKS","jeans":"telugusciencebooks"}
+      ]
+          
+    },
+    {
+        "name":"ENGLISH-BOOKS",
+        "icon":"library_books",
+      "childcomponent":[
+          {"subcatgry":"MATH - BOOKS","name":"engmathebooks"},
+          {"subcatgry":"SCIENCE - BOOKS","jeans":"engsciencebooks"}
+      ]
+          
+    }
+   
+  ]
+ 

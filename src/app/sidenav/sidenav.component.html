@@ -1,0 +1,37 @@
+<mat-sidenav-container class="example-container">
+    <mat-sidenav #sidenav  mode="over">
+      <div fx fxLayoutAlign="end end" fxLayout="row"><button  class="btt" mat-button (click)="sidenavclose()"> <mat-icon >close</mat-icon></button></div>
+         <div class="example-events" >
+            <ul>
+                <!-- <li *ngFor="let e of events, let i=index">  fxlayout="row" fxlayoutAlign="start center" class="list">  
+                    <span class="material-icons-outlined">
+                    {{e.icon}}</span>
+                    <span>{{e.name}}</span>
+                </li> -->
+                <li *ngFor="let e of subcat, let i = index" fxlayout="row" fxlayoutAlign="start center" >  
+                   <div class="list"  (click)="subcattoggle(i)"  > <span class="material-icons-round">
+                    {{e.icon}}</span>
+                    <span>{{e.name}}</span>
+                </div>
+                <ul class="subcategory" *ngIf="subcategoryHideandShow && subcomponents == i" (click)="closemenu()">
+                    <li routerLink="{{e.childcomponent[0].name}}">{{e.childcomponent[0].subcatgry}}</li>
+                    <li routerLink="{{e.childcomponent[1].jeans}}">{{e.childcomponent[1].subcatgry}}</li>
+                    <!-- <li routerLink="{{e.childcomponent[2].jeans}}">{{e.childcomponent[2].subcatgry}}</li> -->
+                </ul>
+                </li>
+            </ul>
+            <!-- <div *ngFor="let list of datalist">
+                <div *ngFor="let sublist of list.sublists">
+
+                </div>
+            </div> -->
+            
+    </div>
+    </mat-sidenav>
+  
+    <mat-sidenav-content>
+        <app-header (pagetitle)="getvalu($event)" [headtitle]="title"> </app-header>     
+        <!-- <p><button class="btn" mat-button (click)="sidenav.toggle()"><mat-icon >menu</mat-icon></button></p> -->
+        <router-outlet ></router-outlet> 
+    </mat-sidenav-content>
+  </mat-sidenav-container>
